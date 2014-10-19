@@ -1,6 +1,7 @@
 # SYSTEM FILES #
 ################
 config.php
+propel.php
 
 # VENDOR FILES #
 ################
