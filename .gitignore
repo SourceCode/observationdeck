@@ -1,0 +1,11 @@
+# SYSTEM FILES #
+################
+config.php
+
+# VENDOR FILES #
+################
+vendor/
+
+# GENERATED FILES #
+###################
+*.log

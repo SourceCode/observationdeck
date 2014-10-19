@@ -1,0 +1,9 @@
+{
+    "require": {
+        "propel/propel": "~2.0@dev",
+        "monolog/monolog": "1.11.*@dev",
+        "phpmailer/phpmailer": "dev-master",
+        "twig/twig": "1.16.*@dev",
+        "guzzle/guzzle": "3.9.*@dev"
+    }
+}
